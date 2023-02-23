@@ -42,6 +42,7 @@ NumPy
 Scikit-learn
 
 Conclusion
+
 After building the machine learning model and evaluating its performance, we observed that the model had a high accuracy rate in predicting whether a customer was eligible for a loan or not. However, there is always room for improvement, and future work could focus on further fine-tuning the model or trying out different algorithms to improve its performance. Overall, this project demonstrates the potential of machine learning in making data-driven decisions, such as determining eligibility for a loan.
 
 
